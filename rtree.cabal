@@ -7,6 +7,6 @@ Author:              Amit Levy
 Maintainer:          levya@cs.stanford.edu
 Build-Type:          Simple
 Cabal-Version:       >=1.2
-Executable hist
+Executable rtree 
   Main-is:           rtree.hs
-  Build-Depends:     
+  Build-Depends:     base > 0
