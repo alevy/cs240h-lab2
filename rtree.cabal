@@ -1,0 +1,12 @@
+Name:                rtree
+Version:             0.0
+Description:         Super cool mega lambdas
+License:             GPL
+License-file:        LICENSE
+Author:              Amit Levy
+Maintainer:          levya@cs.stanford.edu
+Build-Type:          Simple
+Cabal-Version:       >=1.2
+Executable hist
+  Main-is:           rtree.hs
+  Build-Depends:     

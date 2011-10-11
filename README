@@ -1,0 +1,22 @@
+# Hilbert R-tree (Lab 2) - CS240h: Functional Systems in Haskell
+
+Author: Amit Levy (levya@cs.stanford.edu)
+
+## Build Instructions
+
+Use `cabal` to build the word frequency histogram generator from the source directory:
+    
+    $ cabal configure
+    $ cabal build
+    
+This builds the executable `hist` into the dist directory. You should be able to run
+    
+    $ dist/build//hist [text-file]
+    
+You can also install the binary by running:
+    
+    $ cabal install
+    
+
+## Usage
+[TODO]
