@@ -9,4 +9,4 @@ Build-Type:          Simple
 Cabal-Version:       >=1.2
 Executable rtree 
   Main-is:           rtree.hs
-  Build-Depends:     base > 0
+  Build-Depends:     base > 0, MissingH > 0, time > 1
